@@ -15,22 +15,26 @@
 
 <h3>🛠️ Tools</h3>
 
+![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <h3> 💬 Communication</h3>
 
 ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
 ![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)  
 
+<h3> ETC... </h3>
 
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <h3>💯 Algorithm</h3>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=so_what)](https://solved.ac/{handle})
 
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssxrxbx)](https://github.com/anuraghazra/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=9dd84b&height=120&section=footer)
