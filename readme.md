@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=9dd84b&height=250&section=header&text=Welcome%20to-nl-sxxrxbx's%20Github!&animation=fadeIn&fontColor=black&fontSize=90
-)
+![header](https://capsule-render.vercel.app/api?type=venom&color=9dd84b&height=150&section=header&text=Welcome%20to-nl-sxxrxbx's%20Github!&animation=fadeIn&fontColor=black&fontSize=90)
 
 <h3>💻 Tech Stacks</h3>
 
