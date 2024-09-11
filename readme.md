@@ -9,3 +9,5 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=so_what)](https://solved.ac/{handle})
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssxrxbx)](https://github.com/anuraghazra/github-readme-stats)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=9dd84b&height=250&section=footer)
