@@ -30,11 +30,6 @@
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h3>💯 Algorithm</h3>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=so_what)](https://solved.ac/{handle})
-
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssxrxbx)](https://github.com/anuraghazra/github-readme-stats)
 
