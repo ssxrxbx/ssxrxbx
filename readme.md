@@ -5,7 +5,7 @@
 
 <h2>👋 About Me</h2>
 
-<p>안녕하세요! 끊임없이 배우고, 소통하며 성장하는 <strong>컴퓨터공학</strong> 전공생입니다.<br><strong>사용자 중심의 문제 해결</strong>과 <strong>기술 기반의 가치 전달</strong>에 깊은 관심이 있습니다.</p>
+<p>안녕하세요! 끊임없이 배우고, 소통하며 성장하는 <strong>컴퓨터학부</strong> 전공생입니다.<br><strong>사용자 중심의 문제 해결</strong>과 <strong>기술 기반의 가치 전달</strong>에 깊은 관심이 있습니다.</p>
 
 <h2>💻 Main Stacks</h2>
 
