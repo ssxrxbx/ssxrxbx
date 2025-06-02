@@ -1,6 +1,11 @@
 
+### 기술과 가치를 전달하는 사람으로 성장하기 위해, 오늘도 배움과 소통을 멈추지 않습니다.
 
----
+### About Me
+
+🙋‍♂️ 안녕하세요! 끊임없이 배우고, 소통하며 성장하는 것을 즐기는 컴퓨터공학 전공생입니다.  
+💡 기술과 사람 사이를 잇는 '기술 전달자'가 되고 싶습니다.  
+
 
 <h3>💻 Tech Stacks</h3>
 
@@ -30,7 +35,3 @@
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssxrxbx)](https://github.com/anuraghazra/github-readme-stats)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=9dd84b&height=120&section=footer)
